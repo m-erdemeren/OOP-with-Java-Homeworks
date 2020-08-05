@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DaysOfMonths
+comment0.text=\r\n\ \ \ A\ class\ for\ getting\ the\ month\ lengths.\r\n\ \r\n\ \ \ @author\ Erdem\ Eren\r\n\ \ \ @version\ 03.15.2020\r\n
+comment1.params=
+comment1.target=DaysOfMonths()
+comment1.text=\r\n\ \ \ \ \ \ \ Constructor\ for\ objects\ of\ class\ DaysOfMonths\r\n
+comment2.params=monthId
+comment2.target=void\ setMonthId(int)
+comment2.text=\r\n\ \ \ \ \ \ \ The\ setter\ method\ for\ the\ variable\ monthId\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ @param\ \ monthId\ \ Number\ of\ the\ month\r\n
+comment3.params=
+comment3.target=int\ getLength()
+comment3.text=\r\n\ \ \ \ \ \ \ Assigns\ the\ length\ of\ month\ to\ the\ variable\ monthDay\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ @return\ the\ length\ of\ the\ month\ \r\n
+numComments=4

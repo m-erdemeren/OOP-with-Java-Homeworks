@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CoronaReport
+comment0.text=\r\n\ A\ program\ to\ create\ an\ ArrayList\ of\ Country\ objects,\ to\ find\ the\ longest\ country\ name\ \r\n\ and\ align\ the\ names\ accordingly\ to\ right,\ and\ to\ print\ barcharts\ of\ recovered\ and\r\n\ dead\ ratios.\r\n\r\n\ @author\ Erdem\ Eren\r\n\ @version\ 04.23.2020\r\n
+comment1.params=numberOfCountries
+comment1.target=CoronaReport(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CoronaReport\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ readCountriesValues()
+comment2.text=\r\n\ Reads\ country\ name,\ number\ of\ deaths,\ number\ of\ recovered\ people\ as\ an\ input\ from\ the\ \r\n\ user\ and\ forms\ country\ objects,\ records\ country\ objects\ to\ an\ array\ list\ of\ countries.\r\n\r\n\ \r\n\ @return\ \ the\ list\ of\ countries\r\n
+comment3.params=countryList
+comment3.target=int\ findMaxLengthCountryName(java.util.ArrayList)
+comment3.text=\r\n\ Takes\ the\ list\ of\ countries\ and\ finds\ the\ country\ with\ the\ longest\ name.\r\n\ \r\n\ @param\ countryList\ list\ of\ countries\r\n\ @return\ maximum\ length\ of\ the\ country\ names\ in\ the\ list\r\n
+comment4.params=countryList\ maxName
+comment4.target=void\ printBarChart(java.util.ArrayList,\ int)
+comment4.text=\r\n\ Prints\ the\ name\ of\ countries\ and\ the\ corresponding\ recovered\ and\ dead\ ratios.\r\n\ \r\n\ @param\ countryList\ the\ list\ of\ countries\r\n\ @param\ maxName\ the\ length\ of\ the\ longest\ country\ name\ in\ countryList\r\n
+numComments=5

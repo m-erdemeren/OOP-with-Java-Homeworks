@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Instructor
+comment0.text=\r\n\ A\ class\ to\ hold\ information\ of\ instructors\ and\ keep\ a\ list\ of\ all\ instructors.\r\n\r\n\ @author\ Erdem\ Eren\r\n\ @version\ 06.01.2020\r\n
+comment1.params=nameSurname\ age
+comment1.target=Instructor(java.lang.String,\ int)
+comment1.text=\r\n\ Constructs\ objects\ of\ class\ Instructor\ and\ adds\ the\ object\ to\ the\ class\ variable\ instructorsList\ \r\n\ \r\n\ @param\ nameSurname\ name\ and\ surname\ of\ the\ instructor\r\n\ @param\ age\ age\ of\ the\ instructor\r\n
+comment2.params=id
+comment2.target=void\ removeInstructor(int)
+comment2.text=\r\n\ Removes\ the\ instructor\ with\ the\ given\ id\ from\ the\ instructor\ list\r\n\r\n\ @param\ \ id\ \ id\ number\ of\ the\ instructor\r\n
+comment3.params=
+comment3.target=void\ getInstructors()
+comment3.text=\r\n\ Prints\ the\ list\ of\ all\ instructors\ with\ their\ IDs.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Alters\ the\ string\ representation\ of\ the\ object.\r\n\ \r\n\ @return\ name\ and\ surname\ of\ the\ instructor\r\n
+numComments=5

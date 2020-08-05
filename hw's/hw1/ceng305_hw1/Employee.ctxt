@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ \ \ An\ Employee\ with\ his/her\ name,\ work\ hours\r\n\ \r\n\ \ \ @author\ Erdem\ Eren\r\n\ \ \ @version\ 03.10.2020\r\n
+comment1.params=
+comment1.target=Employee()
+comment1.text=\r\n\ \ \ \ \ \ \ Constructor\ for\ objects\ of\ class\ Employee\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ \ Sets\ the\ name\ of\ the\ employee\r\n\ \ \ \ \r\n\ \ \ \ \ \ \ @param\ name\ name\ of\ the\ employee\ \r\n\ \ \ \ \r\n
+comment3.params=workHours\ paymentPerHour
+comment3.target=void\ setWorkHoursPaymentPerHour(double,\ double)
+comment3.text=\r\n\ \ \ \ \ \ \ Sets\ the\ work\ hours\ and\ the\ payment\ per\ hour\r\n\ \ \ \ \ \r\n\ \ \ \ \ \ \ @param\ workHours\ total\ hours\ that\ the\ employee\ worked\ in\ a\ week\r\n\ \ \ \ \ \ \ @param\ paymentPerHour\ the\ money\ paid\ to\ the\ employee\ per\ hour\r\n
+comment4.params=
+comment4.target=double\ getPayment()
+comment4.text=\r\n\ \ \ \ \ \ \ Calculates\ and\ returns\ the\ payment\r\n\ \ \ \ \ \ \r\n\ \ \ \ \ \ \ @return\ the\ payment\r\n
+numComments=5

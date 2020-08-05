@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\r\n\ A\ program\ to\ implement\ the\ game\ Tic\ Tac\ Toe.\r\n\ \r\n\ @author\ Erdem\ Eren\r\n\ @version\ 04.25.2020\r\n
+comment1.params=
+comment1.target=TicTacToe()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TicTacToe\r\n
+comment2.params=
+comment2.target=void\ printBoard()
+comment2.text=\r\n\ Prints\ the\ coordinates\ of\ the\ board\ and\ the\ current\ board\ \r\n
+comment3.params=
+comment3.target=void\ printAvailableCoordinates()
+comment3.text=\r\n\ Prints\ the\ available\ coordinates\ on\ the\ board\r\n
+comment4.params=
+comment4.target=int\ checkWinDrawn()
+comment4.text=\r\n\ Checks\ whether\ the\ game\ is\ still\ on\ or\ over\r\n\ \r\n\ @return\ 1\ if\ game\ still\ continues,\ -1\ if\ game\ is\ over\r\n
+comment5.params=
+comment5.target=void\ playGame()
+comment5.text=\r\n\ Starts\ the\ game\ TicTacToe\r\n
+numComments=6

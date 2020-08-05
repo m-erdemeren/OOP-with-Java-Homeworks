@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Country
+comment0.text=\r\n\ A\ program\ for\ creating\ country\ objects\ with\ name,\ daily\ number\r\n\ of\ dead\ and\ recovered\ people,\ and\ for\ calculating\ the\ ratio\ of\ recovered\ and\ dead\r\n\r\n\ @author\ Erdem\ Eren\r\n\ @version\ 04.23.2020\r\n
+comment1.params=name\ dailyDeathNumber\ dailyRecoveredNumber
+comment1.target=Country(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Country\r\n\ \r\n\ @param\ name\ name\ of\ the\ country\r\n\ @param\ dailyDeathNumber\ the\ number\ of\ deaths\ \ in\ the\ last\ day\r\n\ @param\ dailyRecoveredNumber\ the\ number\ of\ recovered\ people\ in\ the\ last\ day\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ country\r\n\r\n\ @return\ \ the\ name\ of\ the\ country\r\n
+comment3.params=
+comment3.target=int\ calculateRatio()
+comment3.text=\r\n\ Calculates\ the\ ratio\ of\ dailyRecoveredNumber\ and\ dailyDeathNumber\ and\ returns\ the\r\n\ results\r\n\ \r\n\ @return\ the\ ratio\ of\ dailyRecoveredNumber\ and\ dailyDeathNumber\r\n
+numComments=4

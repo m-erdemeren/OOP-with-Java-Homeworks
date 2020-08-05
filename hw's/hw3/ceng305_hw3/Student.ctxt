@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ A\ class\ to\ hold\ information\ of\ students\ and\ keep\ a\ list\ of\ all\ students.\r\n\r\n\ @author\ Erdem\ Eren\r\n\ @version\ 06.04.2020\r\n
+comment1.params=studentNo\ nameSurname\ age\ entranceYear
+comment1.target=Student(int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructs\ a\ Student\ object\ with\ their\ student\ number,\ name,\ surname,\ \r\n\ age\ and\ entrance\ year,\ and\ adds\ it\ to\ the\ class\ variable\ studentList\r\n\ \r\n\ @param\ studentNo\ student\ number\ of\ the\ student\r\n\ @param\ nameSurname\ name\ and\ surname\ of\ the\ student\r\n\ @param\ age\ age\ of\ the\ student\r\n\ @param\ entranceYear\ entrance\ year\ of\ the\ student\r\n
+comment2.params=studentNo\ nameSurname\ entranceYear
+comment2.target=Student(int,\ java.lang.String,\ int)
+comment2.text=\r\n\ Constructs\ a\ Student\ object\ with\ their\ student\ number,\ name,\ surname\ and\ \r\n\ entrance\ year\ and\ adds\ it\ to\ the\ class\ variable\ studentList\r\n\ \r\n\ @param\ studentNo\ student\ number\ of\ the\ student\r\n\ @param\ nameSurname\ name\ and\ surname\ of\ the\ student\r\n\ @param\ entranceYear\ entrance\ year\ of\ the\ student\r\n
+comment3.params=
+comment3.target=void\ getStudentInfo()
+comment3.text=\r\n\ Prints\ the\ student\ information\r\n
+comment4.params=
+comment4.target=void\ getStudents()
+comment4.text=\r\n\ Prints\ all\ of\ the\ students\ with\ their\ student\ numbers\r\n
+comment5.params=studentNo
+comment5.target=void\ removeStudent(int)
+comment5.text=\r\n\ Removes\ the\ student\ with\ the\ given\ student\ number\ from\ the\ student\ list\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Alters\ the\ string\ representation\ of\ the\ object.\r\n\ \r\n\ @return\ name\ and\ surname\ of\ the\ student\r\n
+numComments=7

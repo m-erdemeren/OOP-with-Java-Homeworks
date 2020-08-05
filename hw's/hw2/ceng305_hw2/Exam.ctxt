@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exam
+comment0.text=\r\n\ A\ program\ to\ create\ and\ sort\ an\ ArrayList\ of\ Student\ objects.\r\n\r\n\ @author\ Erdem\ Eren\r\n\ @version\ 04.23.2020\r\n
+comment1.params=
+comment1.target=Exam()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Exam\r\n
+comment2.params=studentName\ score
+comment2.target=void\ addExamScore(java.lang.String,\ double)
+comment2.text=\r\n\ Takes\ the\ student\ name\ and\ exam\ score\ as\ arguments\ and\ adds\ the\ student\ to\ the\ array\r\n\ list\ of\ the\ students\r\n\r\n\ @param\ \ studentName\ the\ name\ of\ the\ student\r\n\ @param\ score\ \ the\ exam\ score\ of\ the\ student\r\n
+comment3.params=
+comment3.target=java.lang.String\ nameOfBestStudent()
+comment3.text=\r\n\ Sorts\ the\ list\ by\ scores\ and\ returns\ the\ names\ of\ the\ highest\ scoring\ three\ students.\r\n\ \r\n\ @return\ the\ names\ of\ the\ best\ three\ students\r\n
+numComments=4

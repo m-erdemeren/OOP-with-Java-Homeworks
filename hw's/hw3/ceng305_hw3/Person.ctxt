@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ A\ class\ to\ create\ Person\ objects\ which\ has\ name\ and\ age\ fields.\r\n\r\n\ @author\ Erdem\ Eren\ \ \ \r\n\ @version\ 05.25.2020\r\n
+comment1.params=nameSurname\ age
+comment1.target=Person(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Person\ with\ their\ name,\ surname\ and\ age\r\n\ \r\n\ @param\ nameSurname\ name\ and\ surname\ of\ the\ person\r\n\ @param\ age\ age\ of\ the\ person\r\n
+comment2.params=nameSurname
+comment2.target=Person(java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Person\ with\ their\ name\ and\ surname\r\n\ \r\n\ @param\ nameSurname\ name\ of\ the\ person\r\n
+numComments=3

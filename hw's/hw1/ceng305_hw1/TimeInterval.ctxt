@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TimeInterval
+comment0.text=\r\n\ \ \ Calculates\ the\ time\ between\ two\ moments\ in\ terms\ of\ hours\ and\ minutes.\r\n\ \ \r\n\ \ \ @author\ Erdem\ Eren\r\n\ \ \ @version\ 03.11.2020\r\n
+comment1.params=
+comment1.target=TimeInterval()
+comment1.text=\r\n\ \ \ \ \ \ \ Constructor\ for\ objects\ of\ class\ TimeInterval.\r\n
+comment2.params=start\ finish
+comment2.target=void\ setTimes(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ \ Reads\ the\ values\ and\ assigns\ them\ to\ class\ variables.\r\n\ \ \ \ \ \r\n\ \ \ \ \ \ \ @param\ start\ starting\ time\ of\ the\ work\r\n\ \ \ \ \ \ \ @param\ finish\ finish\ time\ of\ the\ work\ \r\n
+comment3.params=
+comment3.target=int\ getHour()
+comment3.text=\r\n\ \ \ \ \ \ \ Converts\ the\ string\ variables\ to\ integer\ and\ calculates\ the\ hours\ inbetween.\ \r\n\ \ \ \ \ \ \ @return\ The\ hours\ inbetween.\r\n
+comment4.params=
+comment4.target=int\ getMinute()
+comment4.text=\r\n\ \ \ \ \ \ \ Converts\ the\ string\ variables\ to\ integer\ and\ calculates\ the\ minutes\ inbetween.\r\n\ \ \ \ \ \ \ @return\ The\ minutes\ inbetween.\r\n
+comment5.params=
+comment5.target=void\ calculateTimeInterval()
+comment5.text=\r\n\ \ \ \ \ \ \ Prints\ out\ the\ time\ interval.\r\n\ \ \ \ \ \ \r\n
+numComments=6

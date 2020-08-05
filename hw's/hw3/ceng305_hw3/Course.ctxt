@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ A\ class\ to\ hold\ information\ of\ courses\ and\ keep\ a\ list\ of\ all\ courses,\ along\ with\ their\r\n\ corresponding\ instructors\ and\ participants\r\n\r\n\ @author\ Erdem\ Eren\r\n\ @version\ 06.04.2020\r\n
+comment1.params=courseName\ courseCode\ instructor
+comment1.target=Course(java.lang.String,\ int,\ Instructor)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Course\ with\ their\ name,\ code\ and\ instructor,\ \r\n\ and\ adds\ them\ to\ the\ course\ list\r\n\ \r\n\ @param\ courseName\ name\ of\ the\ course\r\n\ @param\ courseCode\ code\ of\ the\ course\ \r\n\ @param\ instructor\ instructor\ of\ the\ course\r\n
+comment2.params=courseName\ courseCode
+comment2.target=Course(java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Course\ with\ their\ name\ and\ code,\ and\ \r\n\ adds\ them\ to\ the\ course\ list\r\n\r\n\ @param\ courseName\ name\ of\ the\ course\r\n\ @param\ code\ of\ the\ course\r\n
+comment3.params=studentNo
+comment3.target=void\ addStudent(int)
+comment3.text=\r\n\ Adds\ the\ student\ with\ the\ given\ student\ number\ to\ the\ course\ participants\r\n\ \r\n\ @param\ studentNo\ number\ of\ the\ student\r\n
+comment4.params=studentNo
+comment4.target=void\ dropStudent(int)
+comment4.text=\r\n\ Removes\ the\ student\ with\ the\ given\ student\ number\ from\ the\ course\ participants\r\n\ \r\n\ @param\ studentNo\ number\ of\ the\ student\r\n
+comment5.params=
+comment5.target=void\ getStudents()
+comment5.text=\r\n\ Prints\ the\ course\ participants\r\n
+comment6.params=
+comment6.target=void\ getCourses()
+comment6.text=\r\n\ Prints\ the\ list\ of\ all\ courses\r\n
+comment7.params=courseCode
+comment7.target=void\ removeCourse(int)
+comment7.text=\r\n\ Removes\ the\ course\ with\ the\ given\ course\ code\ from\ the\ course\ list\r\n
+numComments=8
